@@ -1,5 +1,5 @@
 # [CC3201] Bases de Datos
-Reports on a speedrun database
+Reports on a speedrun database.
 
 ## Reports
 
